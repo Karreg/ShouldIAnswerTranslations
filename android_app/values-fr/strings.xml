@@ -198,10 +198,10 @@
     <string name="Your_Ratings">Vos évaluations</string>
     <string name="Push_the_RATE_button_to_add_your_rating">Appuyez sur le bouton ÉVALUER pour ajouter votre évaluation.</string>
     <string name="Community_Reviews">Commentaires des utilisateurs</string>
-    <string name="You_have_disabled_automatic_reviews_info">Vous avez désactivé le chargement automatique des commentaires du serveur. Appuyez sur \'COMMENTAIRES\' pour voir les commentaires des autres utilisateurs. Chargement automatique des commentaires peut être activées dans les Paramètres.</string>
-    <string name="notification_rating">Comment bloquer un numéro de téléphone? Écrivez l\'évaluation négative et permettez le blocage des numéros évalué négativement.</string>
+    <string name="You_have_disabled_automatic_reviews_info">Vous avez désactivé le téléchargement automatique des commentaires. Appuyez sur \'COMMENTAIRES\' pour voir les commentaires des autres utilisateurs. Le téléchargement automatique des commentaires peut être ré-activé dans les Paramètres.</string>
+    <string name="notification_rating">Comment bloquer un numéro de téléphone ? Écrivez une évaluation négative et permettez le blocage des numéros évalués négativement.</string>
     <string name="Phone_Number">Numéro de téléphone</string>
-    <string name="Rating_Phone_Number_Hint">Le numéro doit être au format international commençant par \'+\' avec préfixe internetional et numéro lui-même. Vous pouvez également évaluer un groupe de numéros en utilisant *. Par exemple: +4412345* crée une règle pour évaluation de tous les numéros de la étendue +4412345xxxx.</string>
+    <string name="Rating_Phone_Number_Hint">Le numéro doit être au format international commençant par \'+\' suivi du préfixe international puis du numéro lui-même. Vous pouvez également évaluer un groupe de numéros en utilisant *. Par exemple: +4412345* crée une règle pour évaluater tous les numéros commençant par +4412345.</string>
     <string name="Private_Rating_or_Number">Évaluation ou numéro privé</string>
     <string name="Private_Rating_or_Number_hint">Marquez si le numéro est privé ou vous ne voulez pas partager évaluation avec la communauté</string>
     <string name="Select_Rating">Sélectionnez Évaluation</string>
